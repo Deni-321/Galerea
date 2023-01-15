@@ -1,0 +1,97 @@
+.img {
+    background-image: url(https://phonoteka.org/uploads/posts/2021-06/1624059795_5-phonoteka_org-p-oboi-les-krasivo-5.jpg);
+    width: 200px;
+    height: 200px;
+    margin: 20px 50px 20px 50px;
+    border: solid 5px chartreuse;
+}
+
+.img-two {
+    background-image: url(https://i.imgur.com/4L3CvcZ.jpg);
+    width: 200px;
+    height: 200px;
+    margin: 20px 50px 20px 50px;
+    border: solid 5px chartreuse;
+}
+
+.img-9 {
+    background-image: url(https://avatars.dzeninfra.ru/get-zen_doc/197791/pub_62d96960fc3e3a7e8ebe0f06_62d969f5a3215c409e86193e/scale_1200);
+    width: 200px;
+    height: 200px;
+    margin: 20px 50px 20px 50px;
+    border: solid 5px chartreuse;
+}
+
+.img-8 {
+    background-image: url(https://puzzleit.ru/files/puzzles/181/180754/_original.jpg);
+    width: 200px;
+    height: 200px;
+    margin: 20px 50px 20px 50px;
+    border: solid 5px chartreuse;
+}
+
+.img-7 {
+    background-image: url(https://all-aforizmy.ru/wp-content/uploads/2021/10/more-plyazh-nebo-bereg-skaly-volny-1.jpg);
+    width: 200px;
+    height: 200px;
+    margin: 20px 50px 20px 50px;
+    border: solid 5px chartreuse;
+}
+
+.img-6 {
+    background-image: url(https://puzzleit.ru/files/puzzles/184/184452/_original.jpg);
+    width: 200px;
+    height: 200px;
+    margin: 20px 50px 20px 50px;
+    border: solid 5px chartreuse;
+}
+
+.block-one {
+    display: flex;
+}
+
+.block-two {
+    display: flex;
+}
+
+.block-tree {
+    display: flex;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    margin: 20px 50px 20px 50px;
+    border: solid 5px chartreuse;
+}
+
+.img-tree {
+    background-image: url(https://vsegda-pomnim.com/uploads/posts/2022-04/1649201001_50-vsegda-pomnim-com-p-peizazhi-prirodi-more-foto-77.jpg);
+    width: 200px;
+    height: 200px;
+    margin: 20px 50px 20px 50px;
+    border: solid 5px chartreuse;
+}
+
+.img-four {
+    background-image: url(https://masyamba.ru/%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6-%D0%BC%D0%BE%D1%80%D1%8F/76-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B5-%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%D0%B8-%D0%BC%D0%BE%D1%80%D1%8F.jpg);
+    width: 200px;
+    height: 200px;
+    margin: 20px 50px 20px 50px;
+    border: solid 5px chartreuse;
+    
+}
+
+.img-five {
+    background-image: url(https://img2.goodfon.ru/original/3200x1200/4/ed/tropiki-solnce-more-poberezhe.jpg);
+    width: 200px;
+    height: 200px;
+    margin: 20px 50px 20px 50px;
+    border: solid 5px chartreuse;
+}
+
+.tytle {
+    margin: 3px 500px 3px 600px;
+}
+
+
